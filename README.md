@@ -1,5 +1,29 @@
 
+# Choropleth Map Project
+
+## 📌 Overview
+This project is a **Choropleth Map** that visualizes the educational attainment across the United States. It displays the percentage of the population aged 25 and older with a bachelor's degree or higher (2010-2014) by county. The map is interactive, allowing users to hover over counties to see detailed information.
+
+The project was developed as part of the [freeCodeCamp Data Visualization Certification](https://www.freecodecamp.org/learn/data-visualization/).
+
 ---
+
+## 🚀 Features
+- **Interactive Map**: Hover over any county to see its name, state, and educational attainment percentage.
+- **Color Scale**: Uses a quantized color scale to represent different levels of educational attainment.
+- **Tooltip**: Displays detailed information in a modern and responsive tooltip.
+- **Legend**: Includes a legend to help interpret the color scale.
+- **Modern Design**: Features a futuristic and clean design with glassmorphism effects.
+
+---
+
+## 🛠️ Technologies Used
+- **HTML5**: Structure of the project.
+- **CSS3**: Styling and modern design effects (e.g., glassmorphism).
+- **JavaScript**: Logic and interactivity.
+- **D3.js**: Data visualization and map rendering.
+- **TopoJSON**: Geographic data format for rendering the map.
+
 
 ## 🖥️ How to Use
 1. **Clone the Repository**:
@@ -60,9 +84,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 👨‍💻 Developed by
 **Eddie Jonathan García Borbón**  
-- GitHub: [EddieJonathan](https://github.com/EddieJonathan)  
-- LinkedIn: [Eddie Jonathan García Borbón](https://www.linkedin.com/in/eddiejonathan/)  
-- Portfolio: [[eddiejonathan.com](https://eddiejonathan.com) ](https://eddieborbon.github.io/) 
+
 
 ---
 
