@@ -6,6 +6,8 @@ This project is a **Choropleth Map** that visualizes the educational attainment 
 
 The project was developed as part of the [freeCodeCamp Data Visualization Certification](https://www.freecodecamp.org/learn/data-visualization/).
 
+Live Demo [https://eddieborbon.github.io/Choropleth-Map/ ](https://eddieborbon.github.io/Choropleth-Map/ )
+![Project Screenshot](choroplethmap.png) 
 ---
 
 ## 🚀 Features
